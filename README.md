@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * 🔭 I’m currently working on my DSA skills.
-* 🌱 I’m currently learning ML and DL
+* 🌱 I’m currently learning ML and DL.
 <!--
 **NvsYashwanth/NvsYashwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
