@@ -1,16 +1,5 @@
-### Hi there 👋
-
-* 🔭 I’m currently working on my DSA skills.
-* 🌱 I’m currently learning ML and DL.
-<!--
-**NvsYashwanth/NvsYashwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Where to find/contact me
+- [LinkedIn](https://www.linkedin.com/in/nvsyashwanth/) 👨💼
+- [Twitter](https://twitter.com/YashwanthNvs) 🐤
+- [Medium](https://medium.com/@nvsyashwanth) 🤓💻
+- [Gmail](nvsyashwanth338@gmail.com) 💌
