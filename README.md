@@ -3,7 +3,7 @@ Hey :sunglasses:, I'm NVS Yashwanth :wave:
 </h1>
 
 <p align='center'>
-<img src="https://miro.medium.com/max/700/1*6Ty2XkFATQYFc8FqnTCmuw.jpeg">
+<img src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png">
 </p>
 
 ## Tech stack :computer:
