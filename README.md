@@ -17,9 +17,8 @@
 ## 📫 Where to find/contact me
 - [LinkedIn](https://www.linkedin.com/in/nvsyashwanth/) 👨💼
 - [Twitter](https://twitter.com/YashwanthNvs) 🐤
-- [https://badgen.net/badge/icon/medium?icon=medium&label](https://medium.com/@nvsyashwanth)
+- [Medium](https://medium.com/@nvsyashwanth)
 - [Gmail](mailto:nvsyashwanth338@gmail.com) 💌
   
-  ![](https://badgen.net/badge/icon/medium?icon=medium&label)(https://medium.com/@nvsyashwanth)
   
 
