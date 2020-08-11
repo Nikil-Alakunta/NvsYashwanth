@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Tools-matplotlib-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://badgen.net/badge/:subject/:status/:color?icon=github)
+![](https://badgen.net/badge/Python/:status/:color?icon=github)
 
 
 
