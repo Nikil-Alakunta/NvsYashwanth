@@ -4,9 +4,10 @@
 <img src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png">
 </p>
 
-## Interests
+## Interested in learning 
 - Machine Learning, Deep Learning
 - Web Dev
+- Algorithms
 
 ## Tech stack :computer:
 ![](https://badgen.net/badge/Code/Python/blue?icon=https://simpleicons.org/icons/python.svg&labelColor=cyan&label)
