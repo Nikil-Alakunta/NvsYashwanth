@@ -2,7 +2,7 @@
 
 
 ## Interested in learning :smiley:
-<p><img align='right' src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png"  width=400></p>
+- <p><img align='right' src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png"  width=400></p>
 - Machine Learning, Deep Learning 
 - Web Dev
 - Algorithms
