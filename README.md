@@ -6,13 +6,13 @@
 
 
 
-### Interested in learning :smiley:
+## Interested in learning :smiley:
 - Machine Learning, Deep Learning 
 - Web Dev
 - Algorithms
 - UI/UX designing with Adobe XD
 
-### Tech stack :computer:
+## Tech stack :computer:
 ![](https://badgen.net/badge/Code/Python/blue?icon=https://simpleicons.org/icons/python.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Code/C++/blue?icon=https://simpleicons.org/icons/cplusplus.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Library/Pytorch/blue?icon=https://simpleicons.org/icons/pytorch.svg&labelColor=cyan&label)
