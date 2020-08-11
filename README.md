@@ -23,9 +23,7 @@
 ![](https://badgen.net/badge/Editor/VSCode/blue?icon=https://simpleicons.org/icons/visualstudiocode.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/AdobeXD/blue?icon=https://simpleicons.org/icons/adobexd.svg&labelColor=cyan&label)
 
-
-
-### Find me around the web :earth_asia:
+## Find me around the web :earth_asia:
 - Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/nvsyashwanth/) 💼 
 - Sharing tech tweets on [Twitter](https://twitter.com/YashwanthNvs) 🐤 
 - Writing articles on [Medium](https://medium.com/@nvsyashwanth) :black_nib:
