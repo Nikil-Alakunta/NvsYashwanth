@@ -20,6 +20,6 @@
 - [https://badgen.net/badge/icon/medium?icon=medium&label](https://medium.com/@nvsyashwanth)
 - [Gmail](mailto:nvsyashwanth338@gmail.com) 💌
   
-  
+  https://badgen.net/badge/icon/medium?icon=medium&label
   
 
