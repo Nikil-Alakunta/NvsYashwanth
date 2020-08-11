@@ -1,4 +1,6 @@
-# Hey, I'm NVS Yashwanth :wave:
+<h1>
+Hey, I'm NVS Yashwanth :wave:
+</h1>
 
 <p align='center'>
 <img src="https://miro.medium.com/max/700/1*6Ty2XkFATQYFc8FqnTCmuw.jpeg">
