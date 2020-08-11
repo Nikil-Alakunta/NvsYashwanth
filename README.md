@@ -1,4 +1,6 @@
-### 📫 Where to find/contact me
+## Tech stack
+
+## 📫 Where to find/contact me
 - [LinkedIn](https://www.linkedin.com/in/nvsyashwanth/) 👨💼
 - [Twitter](https://twitter.com/YashwanthNvs) 🐤
 - [Medium](https://medium.com/@nvsyashwanth) 🤓💻
@@ -6,4 +8,4 @@
   
   
   
- ![](https://simpleicons.org/icons/linkedin.svg)
+
