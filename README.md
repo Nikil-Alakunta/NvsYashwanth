@@ -8,7 +8,7 @@
 
 
 <p align='center'>
-  <img width=600 src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%202.png">
+  <img width=800 src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%202.png">
 </p>
 
 
