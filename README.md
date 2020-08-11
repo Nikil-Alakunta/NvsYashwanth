@@ -1,5 +1,5 @@
 ## Tech stack
-![](https://badgen.net/badge/Code/Python/cyan/labelColor=cyan?icon=https://simpleicons.org/icons/python.svg/)
+![](https://badgen.net/badge/icon/Python/cyan/labelColor=cyan?icon=https://simpleicons.org/icons/python.svg/)
 ![](https://badgen.net/badge/Code/C++/cyan?icon=github)
 ![](https://badgen.net/badge/Library/Pytorch/cyan?icon=github)
 ![](https://badgen.net/badge/Tools/pandas/cyan?icon=github)
