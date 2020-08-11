@@ -6,7 +6,6 @@
 
 ## Interests
 - Machine Learning, Deep Learning
-- Statistics
 - Web Dev
 
 ## Tech stack :computer:
