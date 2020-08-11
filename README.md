@@ -8,6 +8,7 @@
 - Machine Learning, Deep Learning
 - Web Dev
 - Algorithms
+- UI/UX designing with Adobe XD
 
 ## Tech stack :computer:
 ![](https://badgen.net/badge/Code/Python/blue?icon=https://simpleicons.org/icons/python.svg&labelColor=cyan&label)
