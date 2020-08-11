@@ -5,8 +5,10 @@
 ![](https://badgen.net/badge/Tools/pandas/blue?icon=https://simpleicons.org/icons/pandas.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/numpy/blue?icon=github&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/matplotlib/blue?icon=github&labelColor=cyan&label)
-![](https://badgen.net/badge/Tools/AdobeXD/blue?icon=https://simpleicons.org/icons/adobexd.svg&labelColor=cyan&label)
+![](https://badgen.net/badge/Tools/git/blue?icon=https://simpleicons.org/icons/git.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Editor/VsCode/blue?icon=https://simpleicons.org/icons/visualstudiocode.svg&labelColor=cyan&label)
+![](https://badgen.net/badge/Tools/AdobeXD/blue?icon=https://simpleicons.org/icons/adobexd.svg&labelColor=cyan&label)
+
 
 
 
