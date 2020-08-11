@@ -1,14 +1,17 @@
 # Hey :sunglasses:, I'm NVS Yashwanth :wave:
 
-<p align='center'>
-<img src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png">
-</p>
 
 ## Interested in learning :smiley:
-- Machine Learning, Deep Learning
-- Web Dev
-- Algorithms
-- UI/UX designing with Adobe XD
+
+
+
+
+<p>
+Machine Learning, Deep Learning <img align='right' src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png"  width=400>
+Web Dev
+Algorithms
+UI/UX designing with Adobe XD
+</p>
 
 ## Tech stack :computer:
 ![](https://badgen.net/badge/Code/Python/blue?icon=https://simpleicons.org/icons/python.svg&labelColor=cyan&label)
