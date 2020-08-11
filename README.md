@@ -1,14 +1,15 @@
 # Hey :sunglasses:, I'm NVS Yashwanth :wave:
 
-<p>
-  <img width=400 align='right' src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%202.png">
-</p>
-
 ### Interested in learning :smiley:
 - Machine Learning, Deep Learning 
 - Web Dev
 - Algorithms
 - UI/UX designing with Adobe XD
+
+
+<p align='center'>
+  <img width=600 src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%202.png">
+</p>
 
 
 ### Tech stack :computer:
