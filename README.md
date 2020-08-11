@@ -1,7 +1,7 @@
 # Hey :sunglasses:, I'm NVS Yashwanth :wave:
 
 <p>
-  <img width=400 align='right' src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png">
+  <img width=400 align='right' src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%202.png">
 </p>
 
 ### Interested in learning :smiley:
@@ -9,9 +9,6 @@
 - Web Dev
 - Algorithms
 - UI/UX designing with Adobe XD
-
-
-
 
 
 ### Tech stack :computer:
@@ -30,6 +27,3 @@
 - Sharing tech tweets on [Twitter](https://twitter.com/YashwanthNvs) 🐤 
 - Writing articles on [Medium](https://medium.com/@nvsyashwanth) :black_nib:
 - Contact me via [Gmail](mailto:nvsyashwanth338@gmail.com) 💌 
-  
-  
-
