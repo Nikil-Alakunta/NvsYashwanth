@@ -1,16 +1,16 @@
 # Hey :sunglasses:, I'm NVS Yashwanth :wave:
+<p align='center'>
+  <img height=500 width=1000 src='https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80'>
+</p>
+
+
+
 
 ### Interested in learning :smiley:
 - Machine Learning, Deep Learning 
 - Web Dev
 - Algorithms
 - UI/UX designing with Adobe XD
-
-
-<p align='center'>
-  <img width=800 src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%202.png">
-</p>
-
 
 ### Tech stack :computer:
 ![](https://badgen.net/badge/Code/Python/blue?icon=https://simpleicons.org/icons/python.svg&labelColor=cyan&label)
@@ -22,6 +22,13 @@
 ![](https://badgen.net/badge/Tools/git/blue?icon=https://simpleicons.org/icons/git.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Editor/VSCode/blue?icon=https://simpleicons.org/icons/visualstudiocode.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/AdobeXD/blue?icon=https://simpleicons.org/icons/adobexd.svg&labelColor=cyan&label)
+
+
+
+<p align='center'>
+  <img width=800 src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%202.png">
+</p>
+
 
 ### Find me around the web :earth_asia:
 - Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/nvsyashwanth/) 💼 
