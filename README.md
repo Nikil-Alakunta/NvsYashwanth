@@ -1,6 +1,4 @@
-<h1>
-Hey :sunglasses:, I'm NVS Yashwanth :wave:
-</h1>
+# Hey :sunglasses:, I'm NVS Yashwanth :wave:
 
 <p align='center'>
 <img src="https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png">
