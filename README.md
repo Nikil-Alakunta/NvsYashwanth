@@ -13,6 +13,7 @@
 
 
 
+
 ### Tech stack :computer:
 ![](https://badgen.net/badge/Code/Python/blue?icon=https://simpleicons.org/icons/python.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Code/C++/blue?icon=https://simpleicons.org/icons/cplusplus.svg&labelColor=cyan&label)
