@@ -22,9 +22,7 @@
 ![](https://badgen.net/badge/Editor/VSCode/blue?icon=https://simpleicons.org/icons/visualstudiocode.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/AdobeXD/blue?icon=https://simpleicons.org/icons/adobexd.svg&labelColor=cyan&label)
 
-<p align='right'>
-  <img height=250 src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png'>
-</p>
+
 
 ### Find me around the web :earth_asia:
 - Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/nvsyashwanth/) 💼 
@@ -33,4 +31,6 @@
 - Contact me via [Gmail](mailto:nvsyashwanth338@gmail.com) 💌 
 
 
-
+<p align='center'>
+  <img height=300 src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png'>
+</p>
