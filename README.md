@@ -52,5 +52,5 @@
 
 
 <p align='center'>
-  <img height=300 src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/GitHub%20banner%201.png'>
+  <img height=300 src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/GitHub%20banner%201.png'>
 </p>
