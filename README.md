@@ -4,7 +4,7 @@
 </p>
 
 [1.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-linkedin-48.png (Connecting and sharing professional updates)
-[2.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-github-48.png (This is where i fork)
+[2.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-github-48.png (This is where I fork)
 [3.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-twitter-48.png (Sharing tech tweets)
 [4.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-medium-new-48.png (Writing articles)
 
