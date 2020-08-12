@@ -3,7 +3,21 @@
   <img height=300 width=1000 src='https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80'>
 </p>
 
+[1.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-twitter-48.png (twitter icon with padding)
+[4.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-medium-new-48.png (medium icon with padding)
 
+
+[1]: https://www.linkedin.com/in/nvsyashwanth/
+[2]: https://www.github.com/NvsYashwanth
+[3]: https://www.twitter.com/YashwanthNvs
+[4]: http://www.medium.com/@nvsyashwanth
+
+[![linkedin nvsyashwanth][1.1]][1]
+[![github nvsyashwanth][2.1]][2]
+[![twitter nvsyashwanth][3.1]][3]
+[![medium nvsyashwanth][4.1]][4]
 
 
 ### Interested in learning :smiley:
