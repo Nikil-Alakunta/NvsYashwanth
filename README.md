@@ -1,6 +1,6 @@
 # Hey :sunglasses:, I'm NVS Yashwanth :wave:
 <p align='center'>
-  <img height=350 width=1000 src='https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80'>
+  <img height=300 width=1000 src='https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80'>
 </p>
 
 
