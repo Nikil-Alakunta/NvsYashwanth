@@ -3,24 +3,14 @@
   <img height=300 width=1000 src='https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80'>
 </p>
 
-[1.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-linkedin-48.png (Connecting and sharing professional updates)
-[2.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-github-48.png (This is where I fork)
-[3.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-twitter-48.png (Sharing tech tweets)
-[4.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-medium-new-48.png (Writing articles)
-[5.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-gmail-48.png (Contact me)
 
-
-[1]: https://www.linkedin.com/in/nvsyashwanth/
-[2]: https://www.github.com/NvsYashwanth
-[3]: https://www.twitter.com/YashwanthNvs
-[4]: http://www.medium.com/@nvsyashwanth
-[5]: mailto:nvsyashwanth338@gmail.com
-
-[![linkedin nvsyashwanth][1.1]][1]
-[![github nvsyashwanth][2.1]][2]
-[![twitter nvsyashwanth][3.1]][3]
-[![medium nvsyashwanth][4.1]][4]
-[![Gmail nvsyashwanth][5.1]][5]
+<p align='center'>
+  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-linkedin-48.png'>
+  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-github-48.png'>
+  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-twitter-48.png'>
+  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-medium-new-48.png'>
+  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-gmail-48.png'>
+</p>
 
 
 
