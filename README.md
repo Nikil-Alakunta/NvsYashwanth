@@ -3,11 +3,11 @@
   <img height=300 width=1000 src='https://images.unsplash.com/photo-1548438294-1ad5d5f4f063?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80'>
 </p>
 
-[1.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-linkedin-48.png (Connecting and sharing professional updates)
-[2.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-github-48.png (This is where I fork)
-[3.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-twitter-48.png (Sharing tech tweets)
-[4.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-medium-new-48.png (Writing articles)
-[5.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-gmail-48.png (Contact me)
+[1.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-linkedin-48.png (Connecting and sharing professional updates)
+[2.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-github-48.png (This is where I fork)
+[3.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-twitter-48.png (Sharing tech tweets)
+[4.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-medium-new-48.png (Writing articles)
+[5.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-gmail-48.png (Contact me)
 
 
 [1]: https://www.linkedin.com/in/nvsyashwanth/
