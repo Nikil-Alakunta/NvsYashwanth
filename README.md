@@ -7,17 +7,21 @@
 [2.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-github-48.png (This is where I fork)
 [3.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-twitter-48.png (Sharing tech tweets)
 [4.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-medium-new-48.png (Writing articles)
+[5.1]: https://github.com/NvsYashwanth/NvsYashwanth/blob/master/icons8-gmail-48.png (Contact me)
 
 
 [1]: https://www.linkedin.com/in/nvsyashwanth/
 [2]: https://www.github.com/NvsYashwanth
 [3]: https://www.twitter.com/YashwanthNvs
 [4]: http://www.medium.com/@nvsyashwanth
+[5]: mailto:nvsyashwanth338@gmail.com
 
 [![linkedin nvsyashwanth][1.1]][1]
 [![github nvsyashwanth][2.1]][2]
 [![twitter nvsyashwanth][3.1]][3]
 [![medium nvsyashwanth][4.1]][4]
+[![Gmail nvsyashwanth][5.1]][5]
+
 
 
 ### Interested in learning :smiley:
