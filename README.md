@@ -5,11 +5,11 @@
 
 
 <p align='center'>
-  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-linkedin-48.png'>
-  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-github-48.png'>
-  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-twitter-48.png'>
-  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-medium-new-48.png'>
-  <img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-gmail-48.png'>
+  <a href='https://www.linkedin.com/in/nvsyashwanth/'><img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-linkedin-48.png'></a>
+  <a href='https://github.com/NvsYashwanth'><img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-github-48.png'></a>
+  <a href='https://twitter.com/YashwanthNvs'><img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-twitter-48.png'></a>
+  <a href='https://medium.com/@nvsyashwanth'><img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-medium-new-48.png'></a>
+  <a href='mailto:nvsyashwanth338@gmail.com'><img src='https://github.com/NvsYashwanth/NvsYashwanth/blob/master/assets/icons8-gmail-48.png'></a>
 </p>
 
 
