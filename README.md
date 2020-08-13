@@ -27,6 +27,7 @@
 ![](https://badgen.net/badge/Tools/numpy/blue?icon=https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/matplotlib/blue?icon=https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/git/blue?icon=https://simpleicons.org/icons/git.svg&labelColor=cyan&label)
+![](https://badgen.net/badge/Tools/GitHub/blue?icon=github&labelColor=cyan&label)
 ![](https://badgen.net/badge/Editor/VSCode/blue?icon=https://simpleicons.org/icons/visualstudiocode.svg&labelColor=cyan&label)
 ![](https://badgen.net/badge/Tools/AdobeXD/blue?icon=https://simpleicons.org/icons/adobexd.svg&labelColor=cyan&label)
 
