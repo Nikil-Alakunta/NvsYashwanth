@@ -15,8 +15,7 @@
 
 
 ### Interested in learning :smiley:
-- Machine Learning, Deep Learning 
-- Web Dev
+- Machine Learning, Deep Learning, Data Science
 - Algorithms
 
 ### Tech stack :computer:
