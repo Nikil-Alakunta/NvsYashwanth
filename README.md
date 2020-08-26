@@ -33,6 +33,11 @@
 
 
 
+### Most Recent Articles :page_with_curl:
+- [Understanding RNNs - An introduction to Recurrent Neural Networks](https://medium.com/@nvsyashwanth/understanding-rnns-652b7d77500e)
+
+
+
 ### Find me around the web :earth_asia:
 - Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/nvsyashwanth/) 💼 
 - This is where I fork [GitHub](https://www.github.com/NvsYashwanth)  :fork_and_knife:
