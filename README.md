@@ -34,7 +34,9 @@
 
 
 ### Most Recent Articles :page_with_curl:
-- [Understanding RNNs - An introduction to Recurrent Neural Networks](https://medium.com/@nvsyashwanth/understanding-rnns-652b7d77500e)
+- [Understanding Gradient Descent - Analytics Vidhya](https://medium.com/analytics-vidhya/gradient-descent-and-beyond-ef5cbcc4d83e)
+- [Bias-Variance Tradeoff - Analytics Vidhya](https://medium.com/analytics-vidhya/bias-variance-tradeoff-b4c6c181030d)
+- [Understanding RNNs - An introduction to Recurrent Neural Networks - Analytics Vidhya](https://medium.com/@nvsyashwanth/understanding-rnns-652b7d77500e)
 
 
 
