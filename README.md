@@ -13,6 +13,8 @@
 </p>
 
 
+### My Blog :pen:
+[Machine Learning Master](https://nvsyashwanth.github.io/machinelearningmaster/)
 
 ### Interested in learning :smiley:
 - Machine Learning, Deep Learning, Data Science
