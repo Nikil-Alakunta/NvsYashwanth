@@ -36,6 +36,7 @@
 
 
 ### Most Recent Articles :page_with_curl:
+- [Why convexity is the key to optimization - Towards Data Science](https://towardsdatascience.com/understand-convexity-in-optimization-db87653bf920)
 - [How are learning Curves helpful? - Towards AI](https://medium.com/towards-artificial-intelligence/learning-curves-d6cfb49908f0)
 - [Understanding Gradient Descent - Analytics Vidhya](https://medium.com/analytics-vidhya/gradient-descent-and-beyond-ef5cbcc4d83e)
 - [Bias-Variance Tradeoff - Analytics Vidhya](https://medium.com/analytics-vidhya/bias-variance-tradeoff-b4c6c181030d)
