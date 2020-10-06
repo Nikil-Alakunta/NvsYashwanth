@@ -35,7 +35,7 @@
 
 
 
-### Most recent articles on Medium :page_with_curl:
+### Articles on Medium :page_with_curl:
 - [What is Amazon EC2 and how to use it? - Towards Data Science](https://towardsdatascience.com/what-is-amazon-ec2-and-how-to-use-it-2f621210cf4a)
 - [Street View House Number Generation Using DCGAN- Towards Data Science](https://towardsdatascience.com/street-view-house-number-generation-using-dcgan-8cc5222408f3)
 - [Celebrity Face Generation With Deep Convolutional GANs - Towards Data Science](https://towardsdatascience.com/celebrity-face-generation-with-deep-convolutional-gans-40b96147a1c9)
