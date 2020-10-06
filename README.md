@@ -36,10 +36,15 @@
 
 
 ### Most recent articles on Medium :page_with_curl:
+- [What is Amazon EC2 and how to use it? - Towards Data Science](https://towardsdatascience.com/what-is-amazon-ec2-and-how-to-use-it-2f621210cf4a)
+- [Street View House Number Generation Using DCGAN- Towards Data Science](https://towardsdatascience.com/street-view-house-number-generation-using-dcgan-8cc5222408f3)
+- [Celebrity Face Generation With Deep Convolutional GANs - Towards Data Science](https://towardsdatascience.com/celebrity-face-generation-with-deep-convolutional-gans-40b96147a1c9)
+- [What is Bias-Variance Tradeoff? - Towards Data Science](https://towardsdatascience.com/what-is-bias-variance-tradeoff-c8b19772e054)
+- [Generative Adversarial Networks - Towards Data Science](https://towardsdatascience.com/generative-adversarial-networks-6a17673db367)
+- [What is batch normalization? - Towards Data Science](https://towardsdatascience.com/what-is-batch-normalization-46058b4f583)
 - [Why convexity is the key to optimization - Towards Data Science](https://towardsdatascience.com/understand-convexity-in-optimization-db87653bf920)
 - [How are learning Curves helpful? - Towards AI](https://medium.com/towards-artificial-intelligence/learning-curves-d6cfb49908f0)
 - [Understanding Gradient Descent - Analytics Vidhya](https://medium.com/analytics-vidhya/gradient-descent-and-beyond-ef5cbcc4d83e)
-- [Bias-Variance Tradeoff - Analytics Vidhya](https://medium.com/analytics-vidhya/bias-variance-tradeoff-b4c6c181030d)
 - [Understanding RNNs - An introduction to Recurrent Neural Networks - Analytics Vidhya](https://medium.com/@nvsyashwanth/understanding-rnns-652b7d77500e)
 
 
